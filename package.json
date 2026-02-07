@@ -1,0 +1,1 @@
+{\n  "name": "theonegame",\n  "version": "1.0.0",\n  "description": "A description of your project",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "author": "Your Name",\n  "license": "ISC",\n  "dependencies": {\n    // add your dependencies here\n  }\n}
